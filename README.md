@@ -46,7 +46,7 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </p>
 
-### DevOps Tools
+### DevOps Tools & Workflow
  <p float="left"> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
@@ -63,6 +63,9 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
   </a>
   <a href="https://miro.medium.com/v2/1*cfR0f7VCtJBgdLAOjfRwFg.gif" target="_blank" >
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif" height="70" />
+  </a>
+  <a href="https://miro.medium.com/v2/resize:fit:1164/1*wYmLDsZ64e9bNeEh9nZ4cQ.gif" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:1164/1*wYmLDsZ64e9bNeEh9nZ4cQ.gif" height="500" />
   </a>
  </p>
 
