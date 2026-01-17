@@ -1,12 +1,117 @@
-# 💫 About Me:
-I'm a DevOps Engineer from IN, passionate about developing production-ready DevOps Projects with 3+ years of professional onsite as well as remote work<br><br>🚀 What I work with<br><br>Cloud: AWS (EC2, VPC, IAM, S3, Auto Scaling, Load Balancers)<br><br>Containers & Orchestration: Docker, Kubernetes<br><br>CI/CD: Jenkins<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Monitoring: Prometheus, Grafana, CloudWatch<br><br>Scripting: Shell scripting, basic Python<br><br>OS & Tools: Linux, Git, REST APIs<br><br>🌱 Currently improving<br><br>Kubernetes internals & production patterns<br><br>Cloud security and IAM best practices<br><br>Cost optimization and performance tuning<br><br>System design for scalable architectures
+<div align="center">
+  
+  <h1>Hello All 👋</h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevSecOps;DevOps+Engineering;3%2B+Years+Experience;Cloud+And+Kubernetes+Expert)](https://git.io/typing-svg)
 
+</div>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikasshinde206&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikasshinde206&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasshinde206&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform Engineering** from 🇮🇳 India, with **3+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+
+- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+- 🌱 Always learning about **emerging technologies** and **best practices**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+- 💬 Ask me about **DevOps, Cloud Architecture, and Platform Engineering**
+---
+
+## 🛠️ Tech Stack
+
+### **Scripting Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/>
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+</p>
+
+### DevOps Tools
+ <p float="left"> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+   <br>
+   <br>
+  <a href="" target="_blank" >
+  </a>
+ </p>
+ 
+
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasshinde206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasshinde206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasshinde206&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikasshinde206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasshinde206&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+---
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mi_vikas007/)
+[![Email](https://img.shields.io/badge/Email-vikasshinde206@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](vikasshinde206@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Turning challenges into scalable solutions." 
+
+![Profile Views](https://komarev.com/ghpvc/?username=vikasshinde206&color=brightgreen&style=flat-square)
+
+</div>
