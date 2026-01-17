@@ -19,8 +19,9 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
 
 ## 🛠️ Tech Stack
 
-### **Scripting Languages**
+### **OS & Scripting Languages**
 <p align="left">
+  <img src="https://www.svgrepo.com/show/373276/linux.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
@@ -30,15 +31,17 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
 
-### **Databases & Monitoring**
+### **DevSecOps & Monitoring**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/e210b50b-8204-4095-b308-67e4b6097cc2/331f3e36-ea61-4b6a-a40e-1a29e0b70304.png" alt="trivy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" alt="owasp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/web/images/checkov_blue_logo.png" alt="checkov" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </p>
@@ -47,10 +50,6 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
  <p float="left"> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-   <br>
-   <br>
-  <a href="" target="_blank" >
   </a>
  </p>
  
@@ -62,8 +61,8 @@ I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform 
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  <a href="https://miro.medium.com/v2/1*cfR0f7VCtJBgdLAOjfRwFg.gif" target="_blank" >
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif" height="70" />
   </a>
  </p>
 
