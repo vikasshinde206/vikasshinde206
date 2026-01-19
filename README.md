@@ -2,7 +2,7 @@
   
   <h1>Hello All 👋</h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevSecOps;DevOps+Engineering;3%2B+Years+Experience;Cloud+And+Kubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;DevSecOps;3%2B+Years+Experience;Cloud+And+Kubernetes)](https://git.io/typing-svg)
 
 </div>
 
