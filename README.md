@@ -9,12 +9,29 @@
 ---
 ## 🚀 About Me
 
-I'm a **DevOps Engineer** & **Explorer** specializing in **DevOps, and Platform Engineering** from 🇮🇳 India, with **3+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+🚀 About Me
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **DevOps, Cloud Architecture, and Platform Engineering**
+I’m a **DevOps Engineer** with 3+ years of hands-on experience **designing**, **automating**, and **operating** **cloud-native** **infrastructure**. I focus on building production-ready systems that are scalable, secure, and easy to operate.
+
+I work across the full DevOps lifecycle — from infrastructure provisioning and CI/CD pipelines to container orchestration, monitoring, and reliability. I enjoy solving real-world problems like deployment failures, environment drift, scaling bottlenecks, and cost optimization.
+
+🔧 What I work with:
+- **Cloud & Infra**: AWS, Terraform, Linux
+- **Containers & Orchestration**: Docker, Kubernetes
+- **CI/CD & Automation**: Jenkins, Shell scripting
+- **Observability & Reliability**: Prometheus, Grafana, logging & alerting
+- **DevOps Practices**: IaC, GitOps, blue-green & rolling deployments
+
+🌱 Currently:
+- Building cloud-native and platform-level solutions
+- Exploring DevOps + AI use cases and automation
+- Improving system reliability and operational excellence
+
+🤝 Open to:
+- Open-source contributions
+- DevOps / Platform Engineering collaboration
+- Discussing architecture, scalability, and DevOps best practices
+
 ---
 
 ## 🛠️ Tech Stack
