@@ -11,7 +11,7 @@
 
 🚀 About Me
 
-I’m a **DevOps Engineer** with 3+ years of hands-on experience **designing**, **automating**, and **operating** **cloud-native** **infrastructure**. I focus on building production-ready systems that are scalable, secure, and easy to operate.
+I’m a **DevOps Engineer** with hands-on experience **designing**, **automating**, and **operating** **cloud-native** **infrastructure**. I focus on building production-ready systems that are scalable, secure, and easy to operate.
 
 I work across the full DevOps lifecycle — from infrastructure provisioning and CI/CD pipelines to container orchestration, monitoring, and reliability. I enjoy solving real-world problems like deployment failures, environment drift, scaling bottlenecks, and cost optimization.
 
